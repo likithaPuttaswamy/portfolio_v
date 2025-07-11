@@ -28,11 +28,29 @@ const EducationSection = () => {
       degree: " Bachelor of Technology(B.Tech) in Mechanical Engineering ",
       school: "AVN Institute of Engineering and Technology, JNTUH",
       mascot: "📗",
-      year: "2017 – 2020",
+      year: "2021 – 2024",
       achievements: ["CGPA: 7.2"],
       skills: ["CAD Design", "FEA", "MATLAB ", "Material Science", "Control Systems", "Product Lifecycle Management", "Structural Analysis", "Mechanics of Materials"],
       description:
         "Built a solid foundation in core mechanical engineering subjects with hands-on experience in CAD design, simulation, and system analysis. Gained practical knowledge through lab work and projects focused on materials, control systems, and product development."
+    },
+    {
+      degree: " Junior Mechanical Engineering, JE ",
+      school: "VMR Polytechnic Institute",
+      mascot: "📗",
+      year: "2017 – 2020",
+      achievements: ["67%"],
+      skills: ["Machine Drawing",
+    "Workshop Practice",
+    "Carpentry",
+    "Forging",
+    "Sheet Metal Work",
+    "Foundry Operations",
+    "Welding Techniques",
+    "Tool Handling",
+    "Bench Work"],
+      description:
+        "Completed a comprehensive diploma in mechanical engineering with practical exposure to core workshop disciplines. Gained hands-on experience in carpentry, forging, sheet metal, and foundry operations. Demonstrated strong proficiency in welding and workbench handling, laying a solid foundation in manufacturing and mechanical craftsmanship."
     },
   ];
 
