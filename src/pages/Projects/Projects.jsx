@@ -8,7 +8,7 @@ const projects = [
     title: "Design And Optimization of Electromagnetic Automatic Breaking System For Automobile",
     description:
       "An Electromagnetic Automatic Braking System (EABS) is an advanced braking mechanism that utilizes electromagnetic forces to slow down or stop a vehicle without physical contact. Unlike conventional friction-based brakes, this system operates on the principles of electromagnetism, reducing wear and tear while improving response time and efficiency",
-    link: "/public/new5.png",
+    link: "/new5.png",
     color: "#5196fd",
   },
 
@@ -17,7 +17,7 @@ const projects = [
     description:
     "This project involves the development of a voice-controlled robotic vehicle using an Arduino board and an ATMEGA 328P microcontroller. The system enables hands-free control of a robotic vehicle through voice commands, making it suitable for applications such as assistive robotics, home automation, and surveillance. A Bluetooth module connects the system to a smartphone or voice input device, while motor drivers control the movement of the vehicle based on the received commands",
     src: "tree.jpg",
-    link: "/public/new4.png",
+    link: "/new4.png",
     color: "#8f89ff",
     
   },
@@ -27,7 +27,7 @@ const projects = [
     description:
     "A stair climbing trolley is designed to transport heavy loads across uneven surfaces, particularly staircases, with minimal human effort. This system utilizes a specialized wheel or track mechanism that allows smooth movement oversteps. The trolley enhances mobility, reduces manual lifting strain, and is beneficial for industrial, domestic, and medical applications.",
     src: "water.jpg",
-    link: "/public/new3.png",
+    link: "/new3.png",
     color: "#fff",
   },
 
